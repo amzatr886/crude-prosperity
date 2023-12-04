@@ -1,0 +1,5 @@
+outs:
+- md5: 9537147bddcc407a94fa271708f4e958
+  size: 273587
+  hash: md5
+  path: world-gdp.csv
