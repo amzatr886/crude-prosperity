@@ -1,0 +1,5 @@
+outs:
+- md5: 967e2563d6db649522434171c46e6c2a
+  size: 13113
+  hash: md5
+  path: world-country-list.csv
