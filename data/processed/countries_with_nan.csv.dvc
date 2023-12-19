@@ -1,0 +1,5 @@
+outs:
+- md5: 0967c9abb90e28d701fe570d45b70150
+  size: 312
+  hash: md5
+  path: countries_with_nan.csv

@@ -1,0 +1,5 @@
+outs:
+- md5: 39a19888af49ba737c75520498e31c89
+  size: 1701
+  hash: md5
+  path: oil_states_clean_final.csv
