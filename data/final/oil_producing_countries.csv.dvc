@@ -1,0 +1,5 @@
+outs:
+- md5: 4c957352988e6b28a400c536ceee0915
+  size: 33556
+  hash: md5
+  path: oil_producing_countries.csv

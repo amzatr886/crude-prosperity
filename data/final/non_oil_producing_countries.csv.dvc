@@ -1,0 +1,5 @@
+outs:
+- md5: 136ea1722b49f542cf7adef97d7421fb
+  size: 38954
+  hash: md5
+  path: non_oil_producing_countries.csv
